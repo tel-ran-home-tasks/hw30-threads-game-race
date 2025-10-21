@@ -1,0 +1,14 @@
+# Eclipse/IDE
+.classpath
+.project
+.settings/
+.metadata/
+
+# Java build out
+bin/
+target/
+out/
+
+# OS noise
+.DS_Store
+Thumbs.db
